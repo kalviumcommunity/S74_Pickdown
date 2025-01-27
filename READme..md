@@ -17,6 +17,8 @@ PickDown is a humorous, interactive website designed to raise awareness about th
 - **Database**: MongoDB for storing user ratings, comments, and line data.
 - **Hosting**: Vercel or Netlify for hosting the frontend, and Heroku for backend deployment.
 
+
+
 ## Why This Project
 I chose PickDown because it merges humor with education, providing a fun and engaging way to help users avoid embarrassing social interactions. The project allows me to develop a wide range of skills, from front-end web development to creating interactive user features. Moreover, it offers a unique way to educate others about social awareness while keeping them entertained. This project will challenge me to work on user engagement, responsive design, and real-time interaction, making it a valuable learning experience.
 
