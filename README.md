@@ -11,14 +11,14 @@ A fun website that shows the worst pickup lines so people can laugh and learn wh
 
 ## Features  
 - **Cringe Battle**: Vote on the worst pickup lines.  
-- **User-Response**: User can show some response to bad lines.  
+- **User-Response**: User can show some response to bad Pickup lines.  
 - **Hall of Shame**: A list of the cringiest lines.  
 
 ## Tech Stack  
 - **Frontend**: React.js / Vue.js  
 - **Backend**: Node.js + Express  
 - **Database**: MongoDB  
-- **Hosting**: Vercel / Netlify (Frontend), Heroku (Backend)  
+- **Hosting**: Netlify (Frontend), Render (backend)
 
 ## Why?  
 It’s a fun way to improve social awareness while I build my web development skills.  
