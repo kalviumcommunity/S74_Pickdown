@@ -4,12 +4,25 @@
 PickDown is a humorous, interactive website designed to raise awareness about the worst pickup lines, helping users recognize and avoid these cringe-worthy phrases before they embarrass themselves in social interactions. The site combines fun and education, making it easy for users to laugh while learning how to avoid the most awkward situations.
 
 ## Key Features
-- **Cringe Line Generator**: Displays random, awful pickup lines for users to laugh at.
-- **Cringe-o-Meter**: Users rate how bad a pickup line is on a scale from "Mildly Awkward" to "Major Fail."
-- **Categories of Cringe**: Pickup lines sorted into categories such as "Weird & Wacky" and "Unintentionally Creepy."
-- **Awareness Tips**: Fun, bite-sized tips to explain why these lines don't work and how to avoid them.
-- **Leaderboard**: A voting system to determine the "PickDown Line of the Week."
-- **Social Sharing**: Users can share the worst lines with friends on social media with pre-generated hashtags.
+- # PickDown  
+
+## Overview  
+A fun website that shows the worst pickup lines so people can laugh and learn what not to say.  
+
+## Features  
+- **Cringe Battle**: Vote on the worst pickup lines.  
+- **User-Response**: User can show some response to bad lines.  
+- **Hall of Shame**: A list of the cringiest lines.  
+
+## Tech Stack  
+- **Frontend**: React.js / Vue.js  
+- **Backend**: Node.js + Express  
+- **Database**: MongoDB  
+- **Hosting**: Vercel / Netlify (Frontend), Heroku (Backend)  
+
+## Why?  
+It’s a fun way to improve social awareness while I build my web development skills.  
+
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (React.js or Vue.js for dynamic UI).
